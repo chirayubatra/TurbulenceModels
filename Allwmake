@@ -1,0 +1,4 @@
+#!/bin/bash
+
+wmakeLnInclude -u turbulenceModels
+wmake incompressible
