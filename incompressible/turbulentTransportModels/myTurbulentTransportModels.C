@@ -54,9 +54,6 @@ makeRASModel(mykEpsilon);
 #include "mykOmegaSST.H"
 makeRASModel(mykOmegaSST);
 
-#include "kOmegaSSTF.H"
-makeRASModel(kOmegaSSTF);
-
 #include "prandtl.H"
 makeRASModel(prandtl);
 // -------------------------------------------------------------------------- //
