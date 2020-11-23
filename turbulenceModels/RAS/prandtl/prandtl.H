@@ -5,8 +5,8 @@
     \\  /    A nd           | www.openfoam.com
      \\/     M anipulation  |
 -------------------------------------------------------------------------------
-    Copyright (C) 2011-2016 OpenFOAM Foundation
-    Copyright (C) 2019-2020 OpenCFD Ltd.
+    Copyright (C) 2011-2016 Chirayu Batra
+    Copyright (C) 2019-2020 Chirayu Batra
 -------------------------------------------------------------------------------
 License
     This file is part of OpenFOAM.
